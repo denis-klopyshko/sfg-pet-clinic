@@ -23,3 +23,8 @@
 /dist/
 /nbdist/
 /.nb-gradle/
+/.mvn/
+/pet-clinic-data/pet-clinic-data.iml
+/petc-linic-web/petc-linic-web.iml
+/petc-linic-web/pet-clinic-web.iml
+/release.properties
